@@ -1,0 +1,77 @@
+html,
+body {
+  background-color: white;
+  color: black;
+}
+
+.navigation-bar {
+  height: 2%;
+  background-color: indigo;
+}
+.navigation-bar a {
+  color: indigo;
+  font-weight: bolder;
+}
+.text-color {
+  color: indigo;
+  margin-top: 10%;
+}
+.wrapper {
+  background-color: indigo;
+  color: white;
+  height: 92.7vh;
+  width: 100vw;
+}
+.banner-text {
+  margin-top: 30vh;
+  margin-left: 10vw;
+}
+.welcome-text {
+  padding: 2%;
+}
+.shadows {
+  box-shadow: 10px 10px 20px rgb(29, 29, 14);
+  border-radius: 0px;
+}
+
+/* SERVICES CSS STYLES */
+.services {
+  background-image: url(../img/ghgh.PNG);
+  background-repeat: no-repeat;
+}
+.service-style {
+  /* border: 1px solid indigo; */
+  margin-top: 2%;
+}
+.service-box {
+  /* border: 1px solid indigo; */
+  padding: 5%;
+  margin-top: 3%;
+  background-color: white;
+  box-shadow: 10px 10px 20px #a19a9a;
+}
+.servicess {
+  margin-top: 7%;
+}
+.ff {
+  box-shadow: 10px 10px 20px #a19a9a;
+}
+/* END OF SERVICES CSS STYLES */
+
+.body-wrapper {
+  margin-top: 10%;
+}
+.team-header,
+.contact {
+  margin-top: 10%;
+}
+.contacts {
+  background-color: indigo;
+}
+
+.footer {
+  margin: 0px;
+  background-color: black;
+  border-radius: 0px;
+  color: white;
+}
